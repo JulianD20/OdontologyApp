@@ -21,7 +21,7 @@ Odontolgy App is a sleek and modern frontend application for a dental clinic. Th
 
 2. Navigate to the folder
    ```bash
-   cd FinanzasPro
+   cd OdontologyApp
 
 3. Install dependencies
     ```bash
