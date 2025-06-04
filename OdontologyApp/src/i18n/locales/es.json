@@ -1,0 +1,144 @@
+{
+  "header": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "team": "Equipo",
+    "testimonials": "Testimonios",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "bookAppointment": "Agendar Cita"
+  },
+  "hero": {
+    "title": "Tu Sonrisa Saludable Comienza Aquí",
+    "subtitle": "Experimenta un cuidado dental excepcional con tecnología de vanguardia y nuestro equipo de profesionales expertos dedicados a tu comodidad y salud.",
+    "happyPatients": "500+ Pacientes Felices",
+    "joinUs": "Únete a nuestros pacientes satisfechos",
+    "bookAppointment": "Agendar Cita",
+    "ourServices": "Nuestros Servicios"
+  },
+  "services": {
+    "title": "Nuestros Servicios Dentales",
+    "subtitle": "Ofrecemos una amplia gama de servicios dentales para satisfacer todas tus necesidades de salud bucal en un solo lugar.",
+    "preventiveCare": {
+      "title": "Cuidado Preventivo",
+      "description": "Chequeos regulares, limpiezas profesionales y tratamientos preventivos para mantener tu salud bucal."
+    },
+    "cosmeticDentistry": {
+      "title": "Odontología Estética",
+      "description": "Mejora tu sonrisa con nuestro blanqueamiento dental, carillas y otros procedimientos cosméticos."
+    },
+    "restorativeServices": {
+      "title": "Servicios Restaurativos",
+      "description": "Restaura dientes dañados con empastes, coronas, puentes e implantes para una sonrisa funcional."
+    },
+    "pediatricDentistry": {
+      "title": "Odontología Pediátrica",
+      "description": "Atención dental amigable para niños que ayuda a desarrollar buenos hábitos de higiene bucal desde temprana edad."
+    },
+    "emergencyCare": {
+      "title": "Atención de Emergencia",
+      "description": "Atención inmediata para emergencias dentales, incluyendo dolor de muelas, dientes rotos y otros problemas urgentes."
+    },
+    "orthodontics": {
+      "title": "Ortodoncia",
+      "description": "Endereza tus dientes y corrige problemas de alineación con brackets y alineadores transparentes."
+    }
+  },
+  "about": {
+    "title": "Sobre Nuestra Clínica Dental",
+    "description1": "Desde 2005, DentCare ha brindado atención dental excepcional a nuestra comunidad. Nuestra misión es ayudar a los pacientes a lograr y mantener una salud bucal óptima en un ambiente cómodo y acogedor.",
+    "description2": "Con nuestro equipo de profesionales altamente capacitados y equipamiento de última generación, brindamos servicios dentales integrales para pacientes de todas las edades. Creemos que el cuidado preventivo y la educación son las claves para una salud dental óptima.",
+    "whyChooseUs": "¿Por Qué Elegirnos?",
+    "benefits": {
+      "technology": "Tecnología dental de última generación",
+      "environment": "Ambiente cómodo y relajante",
+      "team": "Equipo dental experimentado y atento",
+      "treatment": "Planes de tratamiento integrales",
+      "pricing": "Precios transparentes sin sorpresas",
+      "scheduling": "Opciones convenientes de programación"
+    },
+    "learnMore": "Conoce Más Sobre Nosotros"
+  },
+  "team": {
+    "title": "Conoce a Nuestro Equipo Experto",
+    "subtitle": "Nuestro equipo de profesionales dentales está dedicado a brindarte una atención excepcional en un ambiente confortable."
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Pacientes",
+    "subtitle": "Estamos orgullosos de la confianza que nuestros pacientes depositan en nosotros. Esto es lo que tienen para decir sobre sus experiencias.",
+    "comments": {
+      "emily": "DentCare cambió completamente mi experiencia dental. El equipo es profesional, gentil y verdaderamente atento. ¡Mi sonrisa nunca se ha visto mejor gracias a la Dra. Johnson!",
+      "marcus": "Como alguien con ansiedad dental, no puedo recomendar DentCare lo suficiente. Me hicieron sentir cómodo y explicaron cada paso de mi tratamiento. ¡Los resultados son fantásticos!",
+      "sophie": "Mi familia ha estado visitando DentCare durante años, y siempre hemos recibido atención de primera clase. El dentista pediátrico es increíble con mis hijos, haciendo que las visitas dentales sean divertidas en lugar de atemorizantes.",
+      "daniel": "Tuve una emergencia dental y DentCare me atendió de inmediato. Arreglaron mi diente roto y aliviaron mi dolor rápidamente. Todo el equipo es profesional y atento."
+    }
+  },
+  "gallery": {
+    "title": "Nuestra Galería",
+    "subtitle": "Realiza un recorrido visual por nuestras instalaciones modernas, nuestro equipo y los resultados de los tratamientos.",
+    "filters": {
+      "all": "Todo",
+      "clinic": "Nuestra Clínica",
+      "results": "Resultados de Pacientes",
+      "team": "Nuestro Equipo"
+    },
+    "images": {
+      "reception": "Recepción moderna de la clínica dental",
+      "treatment": "Sala de tratamiento",
+      "equipment": "Equipo dental",
+      "smile1": "Paciente sonriendo después del tratamiento",
+      "smile2": "Resultado de sonrisa saludable",
+      "beforeAfter": "Antes y después del tratamiento",
+      "team1": "Equipo dental en la oficina",
+      "team2": "Dentista con paciente"
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "¿Tienes preguntas o estás listo para programar una cita? Contáctanos hoy.",
+    "form": {
+      "title": "Envíanos un Mensaje",
+      "fullName": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "service": "Servicio de Interés",
+      "selectService": "Selecciona un servicio",
+      "message": "Tu Mensaje",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Tu mensaje ha sido enviado exitosamente! Te contactaremos pronto."
+    },
+    "info": {
+      "getInTouch": "Ponte en Contacto",
+      "location": "Nuestra Ubicación",
+      "phone": "Teléfono",
+      "email": "Correo",
+      "hours": "Horario de Atención",
+      "weekdays": "Lunes - Viernes",
+      "saturday": "Sábado",
+      "sunday": "Domingo",
+      "closed": "Cerrado",
+      "findUs": "Encuéntranos",
+      "mapLocation": "Ubicación en el Mapa"
+    }
+  },
+  "footer": {
+    "about": "Brindando atención dental de calidad con tecnología avanzada y un enfoque centrado en el paciente desde 2005.",
+    "quickLinks": {
+      "title": "Enlaces Rápidos",
+      "services": "Nuestros Servicios",
+      "team": "Conoce al Equipo",
+      "about": "Sobre Nosotros",
+      "contact": "Contáctanos",
+      "privacy": "Política de Privacidad"
+    },
+    "services": {
+      "title": "Nuestros Servicios"
+    },
+    "contact": {
+      "title": "Contáctanos"
+    },
+    "copyright": "DentCare Clínica. Todos los derechos reservados."
+  }
+}

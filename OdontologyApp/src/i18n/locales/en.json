@@ -1,0 +1,144 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "team": "Team",
+    "testimonials": "Testimonials",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "bookAppointment": "Book Appointment"
+  },
+  "hero": {
+    "title": "Your Healthy Smile Begins Here",
+    "subtitle": "Experience exceptional dental care with state-of-the-art technology and our team of expert professionals dedicated to your comfort and health.",
+    "happyPatients": "500+ Happy Patients",
+    "joinUs": "Join our satisfied patients",
+    "bookAppointment": "Book Appointment",
+    "ourServices": "Our Services"
+  },
+  "services": {
+    "title": "Our Dental Services",
+    "subtitle": "We offer a comprehensive range of dental services to meet all your oral health needs in one place.",
+    "preventiveCare": {
+      "title": "Preventive Care",
+      "description": "Regular check-ups, professional cleanings, and preventive treatments to maintain your oral health."
+    },
+    "cosmeticDentistry": {
+      "title": "Cosmetic Dentistry",
+      "description": "Enhance your smile with our teeth whitening, veneers, and other cosmetic dental procedures."
+    },
+    "restorativeServices": {
+      "title": "Restorative Services",
+      "description": "Restore damaged teeth with fillings, crowns, bridges, and implants for a functional smile."
+    },
+    "pediatricDentistry": {
+      "title": "Pediatric Dentistry",
+      "description": "Child-friendly dental care to help kids develop good oral hygiene habits from an early age."
+    },
+    "emergencyCare": {
+      "title": "Emergency Care",
+      "description": "Prompt care for dental emergencies, including toothaches, broken teeth, and other urgent issues."
+    },
+    "orthodontics": {
+      "title": "Orthodontics",
+      "description": "Straighten your teeth and correct alignment issues with braces and clear aligners."
+    }
+  },
+  "about": {
+    "title": "About Our Dental Practice",
+    "description1": "Since 2005, DentCare has provided exceptional dental care to our community. Our mission is to help patients achieve and maintain optimal oral health in a comfortable, caring environment.",
+    "description2": "With our team of highly trained professionals and state-of-the-art equipment, we deliver comprehensive dental services for patients of all ages. We believe in preventive care and education as the keys to optimal dental health.",
+    "whyChooseUs": "Why Choose Us?",
+    "benefits": {
+      "technology": "State-of-the-art dental technology",
+      "environment": "Comfortable and relaxing environment",
+      "team": "Experienced and caring dental team",
+      "treatment": "Comprehensive treatment plans",
+      "pricing": "Transparent pricing with no surprises",
+      "scheduling": "Convenient scheduling options"
+    },
+    "learnMore": "Learn More About Us"
+  },
+  "team": {
+    "title": "Meet Our Expert Team",
+    "subtitle": "Our team of dental professionals is dedicated to providing you with exceptional care in a comfortable environment."
+  },
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "subtitle": "We're proud of the trust our patients place in us. Here's what they have to say about their experiences.",
+    "comments": {
+      "emily": "DentCare completely changed my dental experience. The team is professional, gentle, and truly caring. My smile has never looked better thanks to Dr. Johnson!",
+      "marcus": "As someone with dental anxiety, I cannot recommend DentCare enough. They made me feel comfortable and explained every step of my treatment. The results are fantastic!",
+      "sophie": "My family has been visiting DentCare for years, and we've always received top-notch care. The pediatric dentist is amazing with my kids, making dental visits fun rather than scary.",
+      "daniel": "I had a dental emergency, and DentCare fit me in immediately. They fixed my broken tooth and relieved my pain quickly. The entire team is professional and caring."
+    }
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Take a visual tour of our modern facility, our team, and treatment results.",
+    "filters": {
+      "all": "All",
+      "clinic": "Our Clinic",
+      "results": "Patient Results",
+      "team": "Our Team"
+    },
+    "images": {
+      "reception": "Modern dental clinic reception",
+      "treatment": "Treatment room",
+      "equipment": "Dental equipment",
+      "smile1": "Patient smiling after treatment",
+      "smile2": "Healthy smile result",
+      "beforeAfter": "Before and after treatment",
+      "team1": "Dental team in office",
+      "team2": "Dentist with patient"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions or ready to schedule an appointment? Reach out to us today.",
+    "form": {
+      "title": "Send Us a Message",
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "service": "Service Interested In",
+      "selectService": "Select a service",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message has been sent successfully! We'll get back to you soon."
+    },
+    "info": {
+      "getInTouch": "Get in Touch",
+      "location": "Our Location",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Office Hours",
+      "weekdays": "Monday - Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed",
+      "findUs": "Find Us",
+      "mapLocation": "Map Location"
+    }
+  },
+  "footer": {
+    "about": "Providing quality dental care with advanced technology and a patient-centered approach since 2005.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "services": "Our Services",
+      "team": "Meet Our Team",
+      "about": "About Us",
+      "contact": "Contact Us",
+      "privacy": "Privacy Policy"
+    },
+    "services": {
+      "title": "Our Services"
+    },
+    "contact": {
+      "title": "Contact Us"
+    },
+    "copyright": "DentCare Clinic. All rights reserved."
+  }
+}
